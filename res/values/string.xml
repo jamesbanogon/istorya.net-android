@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iSTORYA.NET</string>
+    <string name="menu_refresh">Refresh</string>
+	<string name="status">Status</string>
+	<string name="forum_list_item_icon">Forum List Item Icon</string>
+	<string name="forum_list_item_title">Forum List Item Title</string>
+	<string name="forum_list_item_description">Forum List Item Description</string>
+</resources>

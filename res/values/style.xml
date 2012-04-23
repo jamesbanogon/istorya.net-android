@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <style name="CustomTitlePageIndicator" parent="Widget.TitlePageIndicator">
+    	<item name="selectedBold">true</item>
+        <item name="textSize">10.5sp</item>
+        <item name="titlePadding">35dp</item>
+        <item name="vpiTitlePageIndicatorStyle">@style/CustomtTitlePageIndicatorStyle</item>
+        <item name="selectedColor">@color/view_pager_indicator</item>
+
+        <item name="footerColor">@color/view_pager_indicator</item>
+        <item name="footerIndicatorStyle">underline</item>
+        <item name="footerIndicatorHeight">3dp</item>
+        <item name="footerLineHeight">2dp</item>
+        <item name="footerPadding">10dp</item>
+    </style>
+    
+    <style name="CustomtTitlePageIndicatorStyle">
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    
+    <style name="CustomTheme" parent="@style/Theme.Sherlock.Light.DarkActionBar">
+        <item name="actionBarItemBackground">@drawable/selector_item</item>
+    </style>
+</resources>

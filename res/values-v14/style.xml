@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomTheme" parent="@style/Theme.Sherlock.Light.DarkActionBar">
+        <item name="actionBarItemBackground">@drawable/selector_item</item>
+        <item name="android:actionBarItemBackground">@drawable/selector_item</item>
+        <item name="android:selectableItemBackground">@drawable/selector_item</item>
+    </style> 
+</resources>

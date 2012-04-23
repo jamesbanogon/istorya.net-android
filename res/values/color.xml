@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="gray">#ff888888</color>
+    <color name="dark_gray">#FF444444</color>
+    
+    <color name="view_pager_indicator">#FE9E00</color>
+    <color name="view_pager_indicator_background">#3a3a3a</color>
+	<color name="view_pager_background">#ffffff</color>
+    
+    <color name="forum_odd">#F4F4F4</color>
+    <color name="forum_even">#FBFBFB</color>
+    <color name="forum_active">#fff999</color>
+    
+    <color name="item_background">#3a3a3a</color>
+</resources>

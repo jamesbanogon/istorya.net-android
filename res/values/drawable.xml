@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+	<drawable name="forum_odd_background">@color/forum_odd</drawable>
+	<drawable name="forum_even_background">@color/forum_even</drawable>
+	<drawable name="forum_active_background">@color/forum_active</drawable>
+	
+	<drawable name="item_background">@color/item_background</drawable>
+</resources>
